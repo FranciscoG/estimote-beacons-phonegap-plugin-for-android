@@ -22,13 +22,13 @@ In order to add this plugin into your project:
 Using Cordova:
 
 ```sh
-$ cordova plugin add https://github.com/mdc-ux-team/estimote-beacons-phonegap-plugin-for-android.git
+$ cordova plugin add https://github.com/FranciscoG/estimote-beacons-phonegap-plugin-for-android.git
 ```
 
 Using PhoneGap:
 
 ```sh
-$ phonegap local plugin add https://github.com/mdc-ux-team/estimote-beacons-phonegap-plugin-for-android.git
+$ phonegap local plugin add https://github.com/FranciscoG/estimote-beacons-phonegap-plugin-for-android.git
 ```
 
 ## Usage
